@@ -5,11 +5,21 @@
 
 - 🌱 I’m currently learning **MERN stack,MVC framework**
 
+- 🤝 I’m looking for help with **React js,node js and mongodb**
+
+- 💬 Ask me about **Css,html,javascript,java,**
+
 - 📫 How to reach me **palsush254@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sushant-pal-553a63192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant-pal-553a63192" height="30" width="40" /></a>
+<a href="https://fb.com/sushantpal.pal.712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sushantpal.pal.712" height="30" width="40" /></a>
+<a href="https://instagram.com/sushantpal4_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushantpal4_90" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sushant_987" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sushant_987" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/palsushant222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="palsushant222" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/palsush254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palsush254" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/palsush254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="palsush254" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
